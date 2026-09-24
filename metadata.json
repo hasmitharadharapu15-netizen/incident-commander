@@ -1,0 +1,6 @@
+{
+  "name": "Incident Command Center",
+  "description": "AI-powered Incident Monitoring and Response SOC/NOC Dashboard with real-time risk analysis, telemetry, incident simulation, and lifecycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
